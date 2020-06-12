@@ -1,0 +1,5 @@
+50.0
+-4.0
+that temperature doesnt make sense
+212.0
+1808.6
